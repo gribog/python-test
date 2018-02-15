@@ -1,1 +1,3 @@
-print("Hello Epta");
+def main(msg):
+    print(msg)
+main("Hello Epta");
